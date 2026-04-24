@@ -17,11 +17,10 @@ This project is part of my learning journey into backend development, automation
 
 ## Tech Stack
 
-- Python
-- Requests (HTTP checks)
-- Logging module
-- (Planned) Docker containerization
-- (Planned) Fly.io deployment
+Language: Python
+-Libraries: Requests, Logging
+-Environment: Python Virtual Environment (venv)
+-Status: Fully functional locally; preparing for Docker containerization and cloud deployment.
 
 ---
 
