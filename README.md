@@ -36,12 +36,10 @@ python -m venv venv
 venv\Scripts\activate
 
 3. Install dependencies:
-
-pip install -r requirements.txt
+ pip install -r requirements.txt
 
 4. Run the monitor:
-
-python main.py
+ python main.py
 
 
 ##  Project Status
