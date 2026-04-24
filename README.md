@@ -17,10 +17,10 @@ This project is part of my learning journey into backend development, automation
 
 ## Tech Stack
 
-Language: Python
--Libraries: Requests, Logging
--Environment: Python Virtual Environment (venv)
--Status: Fully functional locally; preparing for Docker containerization and cloud deployment.
+- Language: Python
+- Libraries: Requests, Logging
+- Environment: Python Virtual Environment (venv)
+- Status: Fully functional locally; preparing for Docker containerization and cloud deployment.
 
 ---
 
