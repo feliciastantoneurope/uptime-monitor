@@ -25,7 +25,7 @@ This project is part of my learning journey into backend development, automation
 
 ---
 
-## Set up a virtual environment
+## How to Run This Locally
 
 1. Clone the repository:
 git clone https://github.com/feliciastantoneurope/uptime-monitor
